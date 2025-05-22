@@ -2,7 +2,7 @@
 import requests
 import json # Librería para trabajar con datos en formato JSON
 
-# --- Tus Credenciales de Khipu (API v3) ---
+# --- Credenciales de Khipu (API v3) ---
 # Tu API Key real
 API_KEY = '869e67ff-8078-475e-a004-34fb2353fbe3'
 
